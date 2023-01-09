@@ -46,6 +46,6 @@ only on version UE5.0+.
 <img src="readme-images/BPWidget_location2.PNG" alt="Location" height = "60" width = "60" >
  <br />
  <br />
-<img src="readme-images/BPWidget.PNG" alt="Widget" >
+<img src="readme-images/BPWidget.gif" alt="Widget" >
 
 <br />
