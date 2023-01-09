@@ -40,7 +40,7 @@ only on version UE5.0+.
  <br />
  <br />
 
-![] (readme-images/BPWidget_location.PNG)
+![](readme-images/BPWidget_location.PNG)
  <br />
  <br />
 <img src="readme-images/BPWidget_location2.PNG" alt="Location" >
