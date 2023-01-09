@@ -41,15 +41,15 @@ only on version UE5.0+.
  <br />
 
 
-<img src="BPWidget_location.png" alt="Location" >
+<img src="BPWidget_location.PNG" alt="Location" >
 
  <br />
  <br />
  
-<img src="readme-images/BPWidget_location2.png" alt="Location" >
+<img src="readme-images/BPWidget_location2.PNG" alt="Location" >
  <br />
  <br />
  
-<img src="readme-images/BPWidget.png" alt="Widget" >
+<img src="readme-images/BPWidget.PNG" alt="Widget" >
 
 <br />
