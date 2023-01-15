@@ -40,12 +40,17 @@ only on version UE5.0+.
  <br />
  <br />
 
-<img src="readme-images/BPWidget_location.jpg" alt="Location" />
+![Location](https://static.wixstatic.com/media/4d9930_75cd68d3295f4e05aa7c054a628088aa~mv2.png/v1/fill/w_600,h_323,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Automation%20Widget%20Location_PNG.png)
+
+
  <br />
  <br />
-<img src="readme-images/BPWidget_location2.jpg" alt="Location" />
+ 
+![Location](https://static.wixstatic.com/media/4d9930_921f08a05c2040b38af6285fc1823297~mv2.png/v1/fill/w_600,h_323,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/4d9930_921f08a05c2040b38af6285fc1823297~mv2.png)
+ 
  <br />
  <br />
-<img src="readme-images/BPWidget.jpg" alt="Widget" />
+ 
+![Widget](https://static.wixstatic.com/media/4d9930_ca9b16afe20f4a18940928f5b8107cc8~mv2.png/v1/fill/w_600,h_362,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/4d9930_ca9b16afe20f4a18940928f5b8107cc8~mv2.png)
 
 <br />
