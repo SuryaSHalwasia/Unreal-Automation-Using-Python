@@ -8,7 +8,7 @@
   <p align="center">
     SURYAPRAKASH HALWASIA
     <br />
-    <strong>This is for the University of Utah-Technical Art Track</strong>
+  
     <br />
     </p>
 
